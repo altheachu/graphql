@@ -1,0 +1,5 @@
+INSERT INTO location(id,name,address) VALUES (1,'ATL AIRPORT','Atlanda airport location')
+INSERT INTO location(id,name,address) VALUES (2,'MIA AIRPORT','Miami airport location')
+INSERT INTO location(id,name,address) VALUES (3,'LAX AIRPORT','Los Angelas airport location')
+INSERT INTO location(id,name,address) VALUES (4,'PHX AIRPORT','Phoenix airport location')
+INSERT INTO location(id,name,address) VALUES (5,'ORD AIRPORT','Chicago airport location')
